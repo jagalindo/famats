@@ -1,0 +1,8 @@
+Fixed problems (choco):
+-answer methods fixed (now, they receive a Reasoner object, instead of a ChocoReasoner)
+-toArray() call fixed (addSet method, on ChocoReasoner class)
+-Duplicated features on the model (ChocoReasoner.addFeature method)
+-Assertion Error on addSet method (on ChocoReasoner class), by GreaterOrEqualXC.isSatisfied method
+
+To Fix:
+-Fix Products Question (number of products of ProductQuestion != NumberOfProductsQuestion)
