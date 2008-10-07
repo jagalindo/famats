@@ -1,0 +1,55 @@
+JaCoPReasoner - Compilacion
+
+CommonalityQuestion - Ok
+DeadFeaturesQuestion - Comentados métodos getChildren(GenericFeature) y getAllChildren(GenericFeature)
+FilterQuestion - Ok
+NumberOfProductsQuestion -Ok 
+ProductsQuestion - Ok
+SetQuestion - Ok
+ValidQuestion - Ok
+
+JaCoPReasoner - Ejecucion
+
+CommonalityQuestion - Falla al hacer toString
+DeadFeaturesQuestion - Falla en el razonador
+FilterQuestion - Implementar el método toString
+NumberOfProductsQuestion - Ok 
+ProductsQuestion - Ok
+SetQuestion - No usado
+ValidQuestion - Ok
+
+Sat4jReasoner - Compilacion
+
+CommonalityQuestion - Ok
+FilterQuestion - Ok
+NumberOfProductsQuestion - Ok
+ProductsQuestion - Ok
+SetQuestion - Ok
+ValidQuestion - Ok
+
+Sat4jReasoner - Ejecucion
+
+CommonalityQuestion - Falla al hacer toString
+FilterQuestion - Implementar el método toString
+NumberOfProductsQuestion - Ok
+ProductsQuestion - Ok
+SetQuestion - No usado
+ValidQuestion - No usado
+
+JavaBDDReasoner - Compilacion
+
+CommonalityQuestion - Ok
+FilterQuestion - Ok
+NumberOfProductsQuestion - Ok
+ProductsQuestion - Ok
+SetQuestion - Ok
+ValidQuestion - Ok
+
+JavaBDDReasoner - Ejecucion
+
+CommonalityQuestion - Falla al hacer toString
+FilterQuestion - Implementar el método toString
+NumberOfProductsQuestion -Ok 
+ProductsQuestion - Ok
+SetQuestion - No usado
+ValidQuestion - No usado
