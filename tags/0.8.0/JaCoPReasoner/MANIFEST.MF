@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: ISA Group
+Class-Path: lib/JaCoP.jar lib/jdom.jar
+
