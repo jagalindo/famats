@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: ISA Group
-Class-Path: lib/sat4j-1.6_01.jar
-
